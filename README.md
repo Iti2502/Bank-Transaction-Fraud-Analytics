@@ -3,10 +3,10 @@ This project aims to analyse 200K transactions data to uncover fraud trends acro
 
 Following is a short overview of the work that has been done:
 
-* Created new features like time between transactions, transaction hour (as sine/cosine), and holiday indicators to understand user behavior.
-∗ Used statistical tests (Chi-squared, ANOVA, etc) to check if frauds were linked to account type, balance range, or special days.
-∗ Built a clean, reusable data cleaning and preprocessing pipeline to handle cleaning, creating mappings, and other transformations.
-∗ Identified fraud spikes around national events and disproved common assumptions (e.g., business accounts having higher fraud due to larger balances) using statistical tests like ANOVA and Chi-Square.
+- Created new features like time between transactions, transaction hour (as sine/cosine), and holiday indicators to understand user behavior.
+- Used statistical tests (Chi-squared, ANOVA, etc) to check if frauds were linked to account type, balance range, or special days.
+- Built a clean, reusable data cleaning and preprocessing pipeline to handle cleaning, creating mappings, and other transformations.
+- Identified fraud spikes around national events and disproved common assumptions (e.g., business accounts having higher fraud due to larger balances) using statistical tests like ANOVA and Chi-Square.
 
 
 Statistical Tests for Deeper Insights:
