@@ -9,7 +9,7 @@ Following is a short overview of the work that has been done:
 - Identified fraud spikes around national events and disproved common assumptions (e.g., business accounts having higher fraud due to larger balances) using statistical tests like ANOVA and Chi-Square.
 
 
-Statistical Tests for Deeper Insights:
+## Statistical Tests for Deeper Insights:
 
 - Shapiro-Wilk Test: Rejected normality for all account types — data is not normally distributed.
 - Levene’s & ANOVA Tests: No significant variance or mean differences across account types.
@@ -17,7 +17,7 @@ Statistical Tests for Deeper Insights:
 - T-test & Mann-Whitney: Festivals don’t significantly affect fraud rates.
 - Chi-Square Test: Fraud is evenly spread across all hours — not limited to odd or business hours.
 
-Key Insights:
+## Key Insights:
 
 * Fraud is not time-bound — it can occur at any hour with equal probability.
 * Business accounts showed slightly higher fraud rates, but statistical tests revealed no strong link to account balance.
